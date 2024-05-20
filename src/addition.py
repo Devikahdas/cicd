@@ -1,11 +1,8 @@
-# python file to add two numbers
-def add():
-    c = a + b
-    print(c)
+# app.py
+# This is a test commit
+def add(a, b):
+    return a + b
 
-a = 5
-b = 2
-add()
-
-
-
+def test_add():
+    assert add(1, 2) == 3
+    assert add(1, -1) == 0
