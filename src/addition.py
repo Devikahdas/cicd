@@ -1,4 +1,4 @@
-# this python file adds two numbers
+# this python file adds two numbers, howgreat is that
 def add(a,b):
     return a+b
     
