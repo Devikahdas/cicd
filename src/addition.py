@@ -1,4 +1,4 @@
-# this python file adds two numbers, howgreat is that, chnages made only in feature
+# this python file adds two numbers, howgreat is that, chnages made only in features
 def add(a,b):
     return a+b
     
